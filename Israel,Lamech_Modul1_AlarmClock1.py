@@ -4,7 +4,7 @@
 # CS 1110A - Programming in Python      #
 # Module 1 - Exercise 1 - Alarm Clock 1 #
 # Author: Lamech Israel                 #
-# Date:   01/10/2022                    #
+#                                       #
 #########################################
 
 print('Alarm Clock, Part 1')
